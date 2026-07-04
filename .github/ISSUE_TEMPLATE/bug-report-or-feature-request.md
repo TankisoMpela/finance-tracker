@@ -4,8 +4,8 @@ about: Suggest an idea or report a bug
 
 ---
 
-- If you have troubles to run the components, or you'd like to ask a question - please use [PiggyMetrics gitter chat](https://gitter.im/sqshq/PiggyMetrics)
+- If you have troubles to run the components, or you'd like to ask a question - please open a discussion
 
-- If you'd like to propose an improvement or report a bug, please provide a clear and concise description, attach logs and screenshots if possible. The issue should be ready to be implemented without any additional questions. PiggyMetrics is open source, nobody maintains it during the work hours. If you'd like the issue to be fixed, please consider to contibute your time to do that.
+- If you'd like to propose an improvement or report a bug, please provide a clear and concise description, attach logs and screenshots if possible. The issue should be ready to be implemented without any additional questions.
 
 Thank you.
